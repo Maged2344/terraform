@@ -71,3 +71,4 @@ Discounts for the [Terraform Hands on Lab Course](https://www.udemy.com/course/t
 <br>
 
 > Note:  All labs were designed using the bring your own AWS account (BYOAWS) model.  You will create real resources in your AWS Account and there will be a nominal charge.  We encourage you to leverage some of the many benefits of Infrastructure as Code and destroy resources when they are not being used.
+# terraform
